@@ -86,20 +86,9 @@ const handlesubmitForm=(e)=>{
   </tr>
   ))
  }
-
-  
-
-
-    
-
- 
 </tbody>
-
 </table>
-
-
-  
-</div>
+</div>echo "# react-student-record-system" >> README.md
 </div>
 
 </div>
